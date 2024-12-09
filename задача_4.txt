@@ -1,1 +1,1 @@
-SELECT name FROM users WHERE age = 16
+SELECT name FROM students WHERE age = 16
